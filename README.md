@@ -1,2 +1,4 @@
 # Assembly-MIPS-Program
-Assignemnt 1 | SENG 31213 - Computer Arcitecture and Operating Systems
+Assignemnt 1
+
+![Assignment Image](https://raw.githubusercontent.com/Nuwan94/Assembly-MIPS-Program/master/Assignment.jpg)
